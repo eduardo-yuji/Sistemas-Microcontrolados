@@ -1,2 +1,2 @@
 # Sistemas-Microcontrolados
-maumau
+Disciplina de Sistemas Microcontrolados ministrado pelo professor Maumau
